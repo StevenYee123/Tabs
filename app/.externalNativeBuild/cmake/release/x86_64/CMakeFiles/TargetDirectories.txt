@@ -1,0 +1,4 @@
+/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/GPIOTest.dir
+/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir

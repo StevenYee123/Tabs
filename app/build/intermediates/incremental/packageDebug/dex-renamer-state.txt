@@ -1,0 +1,7 @@
+#Fri Jul 21 12:28:55 EDT 2017
+base.0=/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c1b2e7aa2d3c28fcc833b6e6688512eeacbb5bed
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_93c6d301dd1aad92d2975e9af8c2cffa6cf3555b/classes.dex
+base.1=/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_93c6d301dd1aad92d2975e9af8c2cffa6cf3555b
+file.0=/Users/StevenYee/Documents/AndroidStudioProjects/Tabs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c1b2e7aa2d3c28fcc833b6e6688512eeacbb5bed/classes.dex

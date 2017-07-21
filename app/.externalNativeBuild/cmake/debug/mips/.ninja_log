@@ -1,0 +1,12 @@
+# ninja log v5
+0	79	0	CMakeFiles/GPIOTest.dir/src/main/cpp/GPIOTest.c.o	e86dbefc80744683
+79	152	0	../../../../build/intermediates/cmake/debug/obj/mips/libGPIOTest.so	7ad59c985ae6f606
+152	414	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	a6d076f1544fed1d
+415	683	0	../../../../build/intermediates/cmake/debug/obj/mips/libnative-lib.so	d5b6bd2e31c2d1bb
+0	104	0	CMakeFiles/GPIOTest.dir/src/main/cpp/GPIOTest.c.o	e86dbefc80744683
+104	152	0	../../../../build/intermediates/cmake/debug/obj/mips/libGPIOTest.so	7ad59c985ae6f606
+152	498	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	a6d076f1544fed1d
+498	701	0	../../../../build/intermediates/cmake/debug/obj/mips/libnative-lib.so	d5b6bd2e31c2d1bb
+2	100	0	CMakeFiles/GPIOTest.dir/src/main/cpp/GPIOTest.c.o	e86dbefc80744683
+100	157	0	../../../../build/intermediates/cmake/debug/obj/mips/libGPIOTest.so	7ad59c985ae6f606
+157	399	0	../../../../build/intermediates/cmake/debug/obj/mips/libnative-lib.so	d5b6bd2e31c2d1bb

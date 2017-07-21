@@ -1,0 +1,12 @@
+# ninja log v5
+0	84	0	CMakeFiles/GPIOTest.dir/src/main/cpp/GPIOTest.c.o	e225e6ffa56b439a
+84	167	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libGPIOTest.so	2c836c708133ce9c
+167	523	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	bb800f121808a222
+523	616	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	74035d1d3ae946a
+2	177	0	CMakeFiles/GPIOTest.dir/src/main/cpp/GPIOTest.c.o	e225e6ffa56b439a
+177	249	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libGPIOTest.so	2c836c708133ce9c
+249	427	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	bb800f121808a222
+427	519	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	74035d1d3ae946a
+1	89	0	CMakeFiles/GPIOTest.dir/src/main/cpp/GPIOTest.c.o	e225e6ffa56b439a
+89	136	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libGPIOTest.so	2c836c708133ce9c
+136	214	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	74035d1d3ae946a
